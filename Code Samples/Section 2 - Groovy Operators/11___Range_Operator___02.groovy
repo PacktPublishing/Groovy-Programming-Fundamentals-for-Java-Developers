@@ -1,0 +1,1 @@
+(1..5).getClass()  // groovy.lang.IntRange
